@@ -3,7 +3,7 @@ color:
   primary: #00008B
   secondary: #FFFFFF
   secondary-dark: #DCDCDC
-  muted: 385b4f # 6e9277 81a969 777 #1c205b 7E1D34 FFFFFF (blanc devenu gris)
+  muted: #008000
 
 # Font Families
 font:
