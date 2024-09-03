@@ -1,7 +1,7 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: #00008B
-  secondary: f8bfd # 1c205b 7E1D34 #e0001a 172882 fec503   
+  secondary: #FFFFFF
   secondary-dark: c0c0c0 # 333 151541 (gris foncé <-> bleu)
   muted: 385b4f # 6e9277 81a969 777 #1c205b 7E1D34 FFFFFF (blanc devenu gris)
 
